@@ -1,4 +1,4 @@
-# Open Bar – Programf Theming version 1.1
+# Open Bar – Programf Theming version 1.2
 
 **Open Bar** brings a refreshing touch to your GNOME desktop.  
 It styles your **Top Bar, Menus, Dash/Dock, GNOME Shell**, and **GTK Apps** — creating a unified, vivid interface.
@@ -17,7 +17,7 @@ It styles your **Top Bar, Menus, Dash/Dock, GNOME Shell**, and **GTK Apps** — 
 ---
 
 ## 🧩 Version
-**version 1.1** – Base Configuration.
+**version 1.2** – Base Configuration.
 
 ---
 
